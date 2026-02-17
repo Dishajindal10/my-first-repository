@@ -1,4 +1,4 @@
 # my-first-repository
 This is my first Git repository. lets see how it will go.
 <br>
-Author - Disha Jindal
+Author - Disha (student)
